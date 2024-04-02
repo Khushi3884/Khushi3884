@@ -3,9 +3,4 @@
 - 🌱 I’m currently learning Engineerong in Information Technology
 - 📫 How to reach me Khushigupta3884@gmail.com 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
-
-<!---
-Khushi3884/Khushi3884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Engineers and coders often joke that the best code is no code at all. It refers to the elegance of solutions that require minimal lines of code, emphasizing simplicity, efficiency, and clarity.
